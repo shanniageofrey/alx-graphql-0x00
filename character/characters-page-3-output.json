@@ -1,0 +1,12 @@
+{
+  "data": {
+    "characters": {
+      "results": {
+        "id": "3",
+        "name": "Summer Smith",
+        "status": "Alive",
+        "image": "https://rickandmortyapi.com/api/character/avatar/3.jpeg"
+      }
+    }
+  }
+}

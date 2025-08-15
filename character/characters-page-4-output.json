@@ -1,0 +1,12 @@
+{
+  "data": {
+    "characters": {
+      "results": {
+        "id": "4",
+        "name": "Beth Smith",
+        "status": "Alive",
+        "image": "https://rickandmortyapi.com/api/character/avatar/4.jpeg"
+      }
+    }
+  }
+}
