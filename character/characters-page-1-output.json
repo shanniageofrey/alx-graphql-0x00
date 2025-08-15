@@ -1,0 +1,12 @@
+{
+    "data":{
+        "character":{
+            "id":"1",
+            "name": "Rich Sanchez",
+            "status": "alive",
+            "species": "Human",
+            "type": "",
+            "gender":"Male"
+        }
+    }
+}

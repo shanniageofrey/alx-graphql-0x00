@@ -1,0 +1,20 @@
+query { 
+  character(id: 1) {
+    id
+    name
+    status
+    species
+    type
+    gender
+  }
+}
+
+# //query Starts a GraphQL query
+# GraphQL requests can be either query (to get data) or mutation (to change data).
+# Here we are reading data
+
+# character(id: 1),it Calls the character field from the API, which fetches details for one character.
+# (id: 1) means we are asking for the character with ID = 1.
+# id: ID! in GraphQL means the API expects a non-null ID value (the ! means "required").
+
+# Also, for each .graphql file, we must create a .json file showing the output from running that query.
